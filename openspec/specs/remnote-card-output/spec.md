@@ -7,7 +7,7 @@ TBD: Define the bilingual content and paste-ready formatting of cards intended f
 ## Requirements
 
 ### Requirement: Create focused translation cards
-The system SHALL express each selected phrase as a natural Russian prompt and a meaning-aligned English answer. Each card SHALL normally test one primary phrase or grammatical construction.
+The system SHALL express each selected phrase as a natural Russian prompt and a meaning-aligned answer in the requested target language. Each card SHALL normally test one primary phrase or grammatical construction.
 
 #### Scenario: Standard phrase card
 - **WHEN** a selected phrase can be tested independently
@@ -22,21 +22,21 @@ The system SHALL express each selected phrase as a natural Russian prompt and a 
 - **THEN** the system may create a denser card as an explicit exception to the single-target default
 
 ### Requirement: Preserve bilingual meaning and naturalness
-The system MUST ensure that the Russian prompt and English answer express the same intended meaning and both sound natural in their respective languages. Original Skillbox translations SHALL be preserved when they are natural and accurate.
+The system MUST ensure that the Russian prompt and target-language answer express the same intended meaning and both sound natural in their respective languages. Original source translations SHALL be preserved when they are natural and accurate.
 
 #### Scenario: Original translation is natural
-- **WHEN** Skillbox provides a natural and accurate source translation
+- **WHEN** the lesson source provides a natural and accurate translation
 - **THEN** the system retains it unless adaptation is needed for the selected card context
 
 #### Scenario: Literal translation is unnatural
-- **WHEN** a literal rendering would sound unnatural in Russian or English
+- **WHEN** a literal rendering would sound unnatural in Russian or the target language
 - **THEN** the system uses an idiomatic meaning-aligned formulation
 
 ### Requirement: Produce paste-ready RemNote syntax
-The system MUST format every card as `Russian sentence==English translation` and return the final RemNote material inside one `markdown` code block.
+The system MUST format every card as `Russian sentence==target-language translation` and return the final RemNote material inside one `markdown` code block.
 
 #### Scenario: Default output
-- **WHEN** the system returns a completed English card set
+- **WHEN** the system returns a completed English or Spanish card set
 - **THEN** all cards appear in one `markdown` code block using the required `==` delimiter
 - **THEN** headings are clean Markdown headings without backticks
 

@@ -116,3 +116,97 @@ Role: history of generated card wording for exact, key-phrase, and near-duplicat
 Трудолюбивые люди часто ищут высокооплачиваемую работу, но забывают о равновесии между работой и личной жизнью.==Hard-working people often look for a well-paid job but forget about work-life balance.
 Облегающая одежда может выглядеть эффектно, но для меня это палка о двух концах.==Skin-tight clothes can look impressive, but for me it's a double-edged sword.
 Эти обезжиренные супы без сахара звучат полезно, но их реклама слишком ошеломляющая, чтобы ей верить.==These fat-free, sugar-free soups sound healthy, but their advertising is too mind-blowing to believe.
+
+## B1-38 Participles
+
+Совещание было скучным. В результате мне было скучно.==The meeting was boring. As a result, I was bored.
+Я встревожен, потому что получил тревожные новости.==I am alarmed because I've received alarming news.
+Объяснения были путаными, поэтому я был сбит с толку.==The explanations were confusing, so I was confused.
+Доклад был потрясающим, и я был поражён.==The report was amazing, and I was amazed.
+Встревоженные родители поблагодарили всех причастных.==The concerned parents thanked all the people concerned.
+Прошу прощения за причинённые неудобства.==Sorry about the inconvenience caused.
+Я читаю потрясающую книгу, которая называется «Преступление и наказание».==I am reading an amazing book called Crime and Punishment.
+Это официально признанный шедевр, написанный неизвестным художником.==It is an officially recognized masterpiece painted by an unknown artist.
+
+## B1-39 If and whether
+
+Интересно, правдива ли эта новость.==I wonder if/whether the news is true.
+Понятия не имею, сказал ли подсудимый правду или нет.==I have no idea whether/if the defendant told the truth or not.
+Я не могу решить, погасить ли долг сейчас или позже.==I can't decide whether to pay off the debt now or later.
+Я постараюсь выяснить, состоится ли ежегодная конференция.==I'll try to find out if/whether the annual conference will take place.
+Я всё ещё думаю о том, можно ли оправдать подслушивание.==I'm still thinking about whether eavesdropping can be justified.
+Нравится тебе это или нет, лето не за горами.==Whether you like it or not, summer is around the corner.
+Мне всё равно, пойдём ли мы в кино или в театр.==I don't care whether we'll go to the cinema or the theatre.
+Я не знаю, наберу ли вес за праздники.==I don't know if/whether I'll gain weight over the holidays.
+
+## B1-40 Future in the Past
+
+Нам сказали, что надёжный источник подтвердит эту информацию позже.==We were told that a reliable source would confirm this information later.
+Руководитель заявил, что новый отчёт будет свободен от какой-либо предвзятости.==The manager claimed that the new report would be free from any bias.
+Я не ожидал, что нам поручат такую задачу перед предстоящим мероприятием.==I didn't expect that we would be assigned such a task before the upcoming event.
+Она сказала, что предупредит нас о любых изменениях в расписании.==She said that she would warn us about any changes in the schedule.
+Мы были уверены, что вся команда извлечёт пользу из этого проекта.==We were sure that the whole team would benefit from this project.
+Он пообещал, что не будет перекладывать вину на других.==He promised that he wouldn't shift the blame onto others.
+Я думал, что он обвинит меня в том, что я допустил эту ошибку.==I thought that he would accuse me of making the mistake.
+Мы не знали, окажется ли этот инцидент несчастным случаем.==We didn't know whether the incident would turn out to be an accident.
+Он сказал, что самолёт вот-вот взлетит.==He said that the plane was about to take off.
+
+## B1-41 Reported Speech and Sequence of Tenses
+
+Он сказал, что ведёт здоровый образ жизни.==He said that he led a healthy lifestyle.
+Она сказала, что работает в бухгалтерии.==She said that she worked in the accounting department.
+Руководитель объяснил, что команда реализует важный проект.==The manager explained that the team was carrying out an important project.
+Гид сказал, что мы только что вошли в крепость.==The guide said that we had just entered the fortress.
+Он сказал, что ещё не принял решение.==He said that he hadn't made up his mind yet.
+Она сказала, что сердится на меня.==She said that she was angry with me.
+Преподаватель сказал, что продолжительность жизни зависит от многих факторов.==The teacher said that life expectancy depends on many factors.
+Она сказала нам, что любит нас обоих одинаково.==She told us that she loves/loved both of us equally.
+Он представил меня коллеге, который работает в банке.==He introduced me to a colleague who works in a bank.
+
+## B1-52 Another, Other, Else
+
+Можно мне ещё одну чашку кофе?==Can I have another cup of coffee?
+Можно провести ещё один тест, а затем закончить?==Can we conduct one more test and then finish?
+Компания решила провести ещё два теста, чтобы избежать дорогостоящих ошибок.==The company decided to conduct two more tests / another two tests to avoid costly mistakes.
+Чтобы гарантировать успех, тебе нужно ещё немного потренироваться.==To guarantee success, you need to practice some more.
+Мне нужно ещё немного информации о продукте, который позиционируют как безвредное лекарство от этого расстройства.==I need some more information about the product marketed as a harmless medicine for this disorder.
+Нам нужно ещё три дня, чтобы проверить, действительно ли этот продукт безвреден.==We need three more days / another three days to check whether this product is really harmless.
+Какие ещё лекарства от этого расстройства считаются безвредными?==What other medicines for this disorder are considered harmless?
+Что ещё мы можем сделать, чтобы избежать дорогостоящих ошибок?==What else can we do to avoid costly mistakes?
+Нам также нужно обратить внимание на упаковку.==We also need to pay attention to the packaging.
+Я всё ещё категорически против использования этого лекарства не по назначению.==I still strongly oppose using this medicine off-label.
+Мы ещё не выяснили, действительно ли эти продукты практически одинаковы.==We haven't found out yet whether these products are very much the same.
+
+## B1-36 Clarifying Questions
+
+Как ты относишься к этой идее?==How do you feel about this idea?
+Что ты думаешь об этой идее?==What do you think about this idea?
+Что в этом такого особенного?==What's so special about it?
+Мне требуется полчаса, чтобы добраться туда.==It takes me half an hour to get there.
+Ты завален работой. Сколько тебе понадобится времени, чтобы догнать команду?==You're snowed under. How long will it take you to catch up with the team?
+Вчера мне понадобилось два часа, чтобы убаюкать малыша.==Yesterday it took me two hours to put the baby to sleep.
+Как далеко отсюда аэропорт?==How far is the airport from here?
+Какого ты роста?==How tall are you?
+Какова глубина этого озера? — 501 метр.==How deep is this lake? — It's 501 meters deep.
+Сколько раз ты видел этот фильм?==How many times have you seen this film?
+Сколько времени ты провёл в очереди на этот фильм?==How much time did you spend in line to see this film?
+Насколько я знаю, он хорошо разбирается в компьютерах.==As far as I know, he is good at computers.
+
+## B1-35 I Wish and If Only
+
+Как жаль, что вы не говорите по-китайски.==I wish you spoke Chinese.
+Эх, если бы я был на твоём месте.==I wish I were in your shoes.
+Жаль, что у нас маленький дом.==I wish we had a bigger house.
+Если бы только я мог зарабатывать на жизнь любимым делом!==If only I could make a living doing what I love!
+Жаль, что я не последовал твоему совету.==I wish I had followed your advice.
+Жаль, что мы вчера потратили все наши деньги.==I wish we hadn't spent all our money yesterday.
+Жаль, что я закрыл на это глаза.==I wish I hadn't looked the other way.
+Жаль, что ему это сошло с рук.==I wish he hadn't got away with it.
+Вот бы сейчас не шёл дождь.==I wish it weren't raining now.
+Вот бы ты сейчас на меня не пялился.==I wish you weren't staring at me.
+
+## B1-34 Third Conditional
+
+Если бы у меня вчера было время, я бы пошёл с тобой в кино.==If I had had time yesterday, I would have gone to the cinema with you.
+Если бы ты вчера пошёл в школу, ты бы не пропустил контрольную.==If you had gone to school yesterday, you wouldn't have missed the test.
+Что бы вы тогда сделали, если бы знали правду?==What would you have done then if you had known the truth?

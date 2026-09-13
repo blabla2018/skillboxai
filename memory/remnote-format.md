@@ -5,7 +5,7 @@ Output should be easy to paste into RemNote manually. This project produces text
 ## Card Quality
 
 - Each card normally tests one primary phrase or grammatical construction.
-- The Russian prompt and English answer must express the same meaning and sound natural in their respective languages.
+- The Russian prompt and target-language answer must express the same meaning and sound natural in their respective languages.
 - Keep supporting vocabulary familiar enough that it does not obscure the intended recall target.
 - A vocabulary-dense card is a controlled exception: use it only when the expressions belong together and the full sentence remains natural and memorable.
 - Preserve an original Skillbox translation when it is natural and accurate. If a literal source translation is unnatural, use an idiomatic meaning-aligned version.
@@ -28,7 +28,7 @@ Use Markdown:
 - Do not include process commentary, source-analysis notes, or operational instructions inside the paste-ready block.
 - Cards are the default content. Omit theory when the cards are self-explanatory.
 - Include a short formula or explanation only when it materially helps interpret the cards, and place it next to the relevant cards.
-- Use exactly one `==` delimiter per card: `русское предложение==English translation`.
+- Use exactly one `==` delimiter per card: `русское предложение==translation`.
 
 Embedded-card style:
 

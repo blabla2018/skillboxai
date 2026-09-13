@@ -24,12 +24,13 @@ Use this workflow for Skillbox English lessons.
    - the user's personal preferences and corrections from this project memory.
 7. Open `https://eng.skillbox.ru/lms/dashboard`.
 8. Read several recent `Проблемные места в уже пройденном` blocks. They can be inside collapsed lesson blocks, so do not rely only on the first visible block.
-9. Use weak/problem phrases as priority vocabulary only when they fit the current lesson or a realistic card context naturally. Do not force them into unrelated grammar or vocabulary.
-10. Build the answer as compact RemNote-ready Markdown:
+9. Before selecting cards, append every newly observed item from those blocks to `teacher-feedback-english.md` with its lesson date and unchecked status. Capture all items, including ones that will not be used now.
+10. Use teacher-feedback phrases as priority vocabulary only when they fit the current lesson or a realistic card context naturally. Do not force them into unrelated grammar or vocabulary.
+11. Build the answer as compact RemNote-ready Markdown:
    - cards are the default content;
    - short theory or a formula is included only when it materially helps interpret the cards;
    - optional extra cards are included only when they pass the same quality bar.
-11. Cards should:
+12. Cards should:
    - train the current grammar;
    - reuse weak phrases naturally;
    - prioritize common, contemporary, reusable language;
@@ -37,7 +38,8 @@ Use this workflow for Skillbox English lessons.
    - avoid duplicates and near-duplicates;
    - normally test one primary phrase or construction;
    - stay around B1/B1+ unless the user asks otherwise.
-12. When a batch is approved or likely to be reused, append it to `used-english-cards.md` so future batches avoid duplicates.
+13. When a batch is approved or likely to be reused, append it to `used-english-cards.md` so future batches avoid duplicates.
+14. After recording the batch, mark only the teacher-feedback phrases actually present in those cards as checked in `teacher-feedback-english.md`, with `used in` evidence naming the lesson/card-set heading. Leave the rest unchecked.
 
 Browser notes:
 

@@ -7,19 +7,24 @@ TBD: Define how useful, natural, lesson-grounded phrases are selected for langua
 ## Requirements
 
 ### Requirement: Ground candidate phrases in supported sources
-The system SHALL derive candidate phrases from the requested Skillbox lesson, related exercises, original Skillbox examples or translations, recent weak spots, and applicable project memory. The current lesson SHALL remain the primary source unless the user requests another scope.
+The system SHALL derive candidate phrases from the requested lesson, related exercises, original examples or translations, the matching language's teacher-feedback registry, and applicable project memory. The current lesson SHALL remain the primary source unless the user requests another scope.
 
 #### Scenario: Generate from a named lesson
 - **WHEN** the user requests cards for a specific Skillbox lesson
 - **THEN** the system reads the lesson and relevant linked practice before selecting candidate phrases
 - **THEN** recent weak spots and project memory influence the selection only where they fit the lesson naturally
 
+#### Scenario: New teacher feedback is observed
+- **WHEN** a lesson page, dashboard, teacher note, website, or user-provided teacher list exposes recommended phrases
+- **THEN** every observed phrase is appended to the matching language's teacher-feedback registry before selection
+- **THEN** each new phrase starts with an explicit unused status even when it is not selected for the current batch
+
 #### Scenario: Skillbox source is unavailable
 - **WHEN** the requested lesson cannot be read because the site is unavailable or authentication is missing
 - **THEN** the system reports the limitation instead of inventing lesson content
 
 ### Requirement: Prioritize useful and natural phrases
-The system SHALL prioritize phrases that are common in contemporary English, reusable in realistic situations, appropriate for the learner's requested level, and valuable beyond a single exercise.
+The system SHALL prioritize phrases that are common in the requested target language, reusable in realistic situations, appropriate for the learner's requested level, and valuable beyond a single exercise.
 
 #### Scenario: Choose between a reusable and an isolated phrase
 - **WHEN** two candidates teach comparable language but one is broadly reusable and the other only fits an isolated exercise
@@ -44,12 +49,42 @@ The system MUST consult recorded preferences, useful-phrase notes, and prior cor
 The system MUST compare candidates with previously used cards and exclude exact duplicates, near-duplicate phrases, and cards that test substantially the same expression in substantially the same context.
 
 #### Scenario: Exact duplicate exists
-- **WHEN** a candidate phrase and meaning already appear in `used-english-cards.md`
+- **WHEN** a candidate phrase and meaning already appear in the matching language's used-card history
 - **THEN** the system does not generate another equivalent card
 
 #### Scenario: Near-duplicate wording exists
 - **WHEN** a candidate differs only by a minor wording variant such as `listen to reason` versus `listen to the voice of reason`
 - **THEN** the system treats the variants as one learning target unless the distinction itself is useful
+
+### Requirement: Keep language-specific teacher feedback separate
+The system MUST store English teacher feedback in `teacher-feedback-english.md` and Spanish teacher feedback in `teacher-feedback-spanish.md`. It MUST NOT merge, compare, or copy entries across these registries.
+
+#### Scenario: Spanish teacher feedback is captured
+- **WHEN** the user supplies Spanish teacher feedback
+- **THEN** only the Spanish registry is updated
+
+#### Scenario: Skillbox English feedback is captured
+- **WHEN** the English Skillbox dashboard exposes `Проблемные места в уже пройденном`
+- **THEN** only the English registry is updated
+
+### Requirement: Track card use without tracking mastery
+The system MUST retain every teacher-feedback phrase with an explicit used/unused card status. A phrase SHALL be marked used only when the phrase or construction appears in a recorded approved or reusable card, and the entry SHALL name the corresponding card-set heading.
+
+#### Scenario: Feedback phrase is used in an approved card
+- **WHEN** an approved or reusable batch containing the phrase is added to the matching used-card history
+- **THEN** the feedback entry is checked and includes `used in` evidence naming that batch
+
+#### Scenario: Construction is adapted to the card context
+- **WHEN** a recorded card uses the same teacher-feedback construction with normal inflection or a contextual determiner or pronoun in the same slot
+- **THEN** the feedback entry is treated as used when the learning target remains unchanged
+
+#### Scenario: Feedback phrase is not selected
+- **WHEN** a captured phrase does not fit the current lesson or card set
+- **THEN** it remains unchecked and available for future use
+
+#### Scenario: Usage status is reviewed
+- **WHEN** a feedback entry is checked or unchecked
+- **THEN** the status is interpreted only as card-source usage and never as mastery, recall, repetition, or progress
 
 ### Requirement: Prefer quality over exhaustive coverage
 The system SHALL produce only candidates that pass the selection criteria and SHALL NOT require a fixed number of cards unless the user specifies one.
