@@ -1,0 +1,294 @@
+{
+  "id": "002-tehnika",
+  "delivery_package_number": 1,
+  "heading": "Espanika — Пакет 01: Техника и интернет — 2026-10-18",
+  "created_date": "2026-10-18",
+  "status": "generated_for_manual_paste",
+  "source_set_ids": [
+    "1198450888",
+    "1207308595",
+    "1219056205",
+    "1219339477",
+    "1219623072",
+    "1222698739",
+    "748348329"
+  ],
+  "cards": [
+    {
+      "number": 1,
+      "russian": "обновить приложение",
+      "spanish": "actualizar la aplicación",
+      "target": "actualizar",
+      "source_entry_ids": [
+        "1219623072:010"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 2,
+      "russian": "скачать файл",
+      "spanish": "descargar un archivo",
+      "target": "descargar",
+      "source_entry_ids": [
+        "1219623072:031"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 3,
+      "russian": "сохранить документ",
+      "spanish": "guardar un documento",
+      "target": "guardar",
+      "source_entry_ids": [
+        "1219623072:014"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 4,
+      "russian": "удалить аккаунт",
+      "spanish": "borrar la cuenta",
+      "target": "borrar la cuenta",
+      "source_entry_ids": [
+        "1222698739:019"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 5,
+      "russian": "выложить фотографию",
+      "spanish": "subir una foto",
+      "target": "subir la foto",
+      "source_entry_ids": [
+        "1219623072:012"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 6,
+      "russian": "переслать письмо",
+      "spanish": "reenviar un correo",
+      "target": "reenviar un correo",
+      "source_entry_ids": [
+        "1219623072:036"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 7,
+      "russian": "поделиться ссылкой",
+      "spanish": "compartir un enlace",
+      "target": "compartir",
+      "source_entry_ids": [
+        "1219623072:030"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 8,
+      "russian": "редактировать видео",
+      "spanish": "editar vídeos",
+      "target": "editar vídeos",
+      "source_entry_ids": [
+        "1219623072:038"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 9,
+      "russian": "заблокировать пользователя",
+      "spanish": "bloquear a un usuario",
+      "target": "bloquear",
+      "source_entry_ids": [
+        "1219623072:022"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 10,
+      "russian": "изменить пароль",
+      "spanish": "cambiar la contraseña",
+      "target": "la contraseña",
+      "source_entry_ids": [
+        "1219623072:035"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 11,
+      "russian": "У меня нет мобильной связи.",
+      "spanish": "No tengo cobertura.",
+      "target": "no tener cobertura",
+      "source_entry_ids": [
+        "1219623072:032"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 12,
+      "russian": "загрузить файлы в облако",
+      "spanish": "subir archivos a la nube",
+      "target": "subir a la nube",
+      "source_entry_ids": [
+        "1219623072:034"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 13,
+      "russian": "подключить устройство",
+      "spanish": "conectar un dispositivo",
+      "target": "conectar",
+      "source_entry_ids": [
+        "1219339477:010"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 14,
+      "russian": "разбитый экран",
+      "spanish": "una pantalla rota",
+      "target": "la pantalla",
+      "source_entry_ids": [
+        "1219339477:009"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 15,
+      "russian": "нажать клавишу",
+      "spanish": "pulsar una tecla",
+      "target": "la tecla",
+      "source_entry_ids": [
+        "1219339477:008"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 16,
+      "russian": "флешка",
+      "spanish": "una memoria USB",
+      "target": "la memoria USB / el pen",
+      "source_entry_ids": [
+        "1219056205:005"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 17,
+      "russian": "подключить колонки",
+      "spanish": "conectar los altavoces",
+      "target": "los altavoces",
+      "source_entry_ids": [
+        "1219056205:007"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 18,
+      "russian": "опубликовать комментарий",
+      "spanish": "publicar un comentario",
+      "target": "publicar",
+      "source_entry_ids": [
+        "1219623072:026"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 19,
+      "russian": "следить за новостями",
+      "spanish": "seguir las noticias",
+      "target": "seguir",
+      "source_entry_ids": [
+        "1198450888:012"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 20,
+      "russian": "играть онлайн",
+      "spanish": "jugar en línea",
+      "target": "jugar en línea",
+      "source_entry_ids": [
+        "1219623072:009"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 21,
+      "russian": "посмотреть по карте",
+      "spanish": "consultar el mapa",
+      "target": "el mapa",
+      "source_entry_ids": [
+        "1219056205:010",
+        "1207308595:019"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 22,
+      "russian": "содержание видео",
+      "spanish": "el contenido del vídeo",
+      "target": "el cotenido",
+      "source_entry_ids": [
+        "1219623072:013"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 23,
+      "russian": "иметь много подписчиков",
+      "spanish": "tener muchos seguidores",
+      "target": "el seguidor",
+      "source_entry_ids": [
+        "1219623072:003"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 24,
+      "russian": "установить программу",
+      "spanish": "instalar un programa",
+      "target": "instalar",
+      "source_entry_ids": [
+        "748348329:060"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 25,
+      "russian": "стационарный телефон",
+      "spanish": "el teléfono fijo",
+      "target": "el teléfono fijo",
+      "source_entry_ids": [
+        "1219056205:002"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    }
+  ]
+}

@@ -20,3 +20,19 @@ Card format:
 ```text
 русское предложение==Spanish translation
 ```
+
+## Vocabulary cards: minimal sufficient context — agreed 2026-10-18
+
+For Spanish vocabulary, especially Espanika, default to short natural collocations rather than full sentences: `жарить яйцо==freír un huevo`, `прощаться с гостями==despedirse de los invitados`. The Russian side may be a phrase, not a sentence.
+
+- Test one main lexical target with familiar supporting vocabulary. Preserve necessary articles, prepositions, reflexive forms and complements.
+- Use the shortest context that makes the intended meaning clear. Split distinct meanings into separate targets rather than assigning a broad Russian verb one universal Spanish equivalent.
+- Concrete nouns may stand alone with their Spanish article. Use a minimal sentence when a phrase cannot naturally show the construction, such as `Цена включает завтрак.==El precio incluye el desayuno.`
+- Do not add incidental time, place, subordinate clauses or unfamiliar grammar just to make a sentence. Full sentences remain appropriate for grammar cards and meanings requiring a situation.
+- Optional explanatory examples are not additional required recall targets.
+- Keep existing cards intact unless revision is requested. A shortened version of an existing card is an alternative, not a new lexical target to add alongside it.
+- Retain the single Markdown block and `Russian==Spanish` format for manual paste.
+
+Espanika delivery format: numbered batches of about 25 cards, quality over quota. Batch size describes packaging, not how many cards to learn in one sitting. RemNote alone manages recall and repetition; generated batches and source-use status do not imply mastery.
+
+Selection rule: archive many source sets, but release only useful, reviewed targets. Do not turn every archived word into a card. Deduplicate exact source pairs and separately review meanings and existing Spanish learning targets. Keep original source wording separate from editorial corrections.

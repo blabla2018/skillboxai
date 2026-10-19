@@ -210,3 +210,187 @@ Role: history of generated card wording for exact, key-phrase, and near-duplicat
 Если бы у меня вчера было время, я бы пошёл с тобой в кино.==If I had had time yesterday, I would have gone to the cinema with you.
 Если бы ты вчера пошёл в школу, ты бы не пропустил контрольную.==If you had gone to school yesterday, you wouldn't have missed the test.
 Что бы вы тогда сделали, если бы знали правду?==What would you have done then if you had known the truth?
+
+## B1-31 Relative Clauses
+
+Мне нравится девушка, которая живёт по соседству.==I like the girl who/that lives next door.
+Мне понравилась книга, которую я прочитал на прошлой неделе.==I liked the book (that/which) I read last week.
+Человек, на которого ты сейчас смотришь, — шпион.==The person (who/that) you are looking at now is a spy.
+Наша соседка Клара, которая живёт этажом выше, — грубиянка.==Our neighbour Clara, who lives upstairs, is rude.
+Моя левая нога, которую я сломал прошлой осенью, всё ещё болит, когда я хожу.==My left leg, which I broke last autumn, still hurts when I walk.
+Он пришёл вовремя, что всех удивило.==He came on time, which surprised everybody.
+Он провалился на экзамене, что меня совсем не удивило.==He failed the exam, which didn't surprise me at all.
+Погода была хорошая, чего никто не ожидал.==The weather was good, which nobody expected.
+Он уже шесть раз провалил экзамен на вождение, что неудивительно.==He has already failed his driving test six times, which is not surprising.
+Ты действительно веришь всему, что она говорит?==Do you really believe everything (that) she says?
+Она выбросила всё, что напоминало ей о бывшем парне.==She threw away everything that reminded her of her ex-boyfriend.
+Вот ресторан, в котором мы ужинали на прошлой неделе.==This is the restaurant where we had dinner last week.
+Причина, по которой я вам звоню, очень проста.==The reason (why) I am calling you is very simple.
+Бывали времена, когда нам нечего было есть.==There were times when we had nothing to eat.
+Я знаю женщину, чей сын работает здесь волонтёром.==I know a woman whose son works here as a volunteer.
+
+## B1-31 Prerequisites — A2-10, A2-3, B1-23, A2-43, A2-38, A2-44
+
+### A2-10 — Purpose
+
+Я хожу на работу, чтобы зарабатывать деньги.==I go to work to earn money.
+У меня нет времени, чтобы ходить в кино.==I have no time to go to the cinema.
+
+### B1-23 — Complex Object
+
+Я бы хотел, чтобы ты позвонил мне после обеда.==I would like you to call me after lunch.
+Учительница сказала ученикам, чтобы они не торопились.==The teacher told the students not to hurry.
+
+### A2-3 — Embedded Questions
+
+Я не знаю, где он живёт.==I don't know where he lives.
+Вы помните, где наш отель?==Do you remember where our hotel is?
+Я знаю, когда он придёт.==I know when he will come.
+
+### A2-43 — Time
+
+Я сделаю это, когда он придёт.==I'll do it when he comes.
+Позвони мне, как только вернёшься.==Call me as soon as you come back.
+Я ничего тебе не расскажу, пока мама не придёт.==I won't tell you anything until my mother comes.
+
+### A2-44 — Condition
+
+Я сделаю это, если он придёт.==I'll do it if he comes.
+Если мы не поторопимся, мы опоздаем.==If we don't hurry, we'll be late. / Unless we hurry, we'll be late.
+
+### A2-38 — Relative Clauses
+
+Посмотри на мужчину, который покупает цветы.==Look at the man who/that is buying flowers.
+У меня есть проблема, которую невозможно решить.==I have a problem which/that is impossible to solve.
+
+## User-provided Phrases — 23 September 2026
+
+Какие полезные советы ты мне дал!==What useful tips you gave me!
+Мне трудно ответить на ваш вопрос.==I find it difficult to answer your question.
+Разве ты не видишь в этом ничего плохого?==Don't you see anything wrong with that?
+Я никак не могу это осмыслить.==I can't wrap my head around it.
+Одно остаётся неясным: почему он ушёл?==One thing remains unclear: why did he leave?
+Маловероятно, что мы закончим сегодня.==It's unlikely that we'll finish today.
+
+
+## B1-32 Conjunctions
+
+Ты выглядишь так, как будто тебе нужна помощь.==You look as if you need help.
+Пахнет так, как будто что-то горит.==It smells as if something is burning.
+Я чувствую себя так, как будто не спал неделю.==I feel as if I haven't slept in a week.
+Как ты можешь продолжать в том же духе, как будто всё в порядке?==How can you carry on like this as if everything is fine?
+Возьми куртку на случай, если вечером похолодает.==Take a jacket in case it gets cold in the evening.
+Нам нужно создать резервную копию проекта на случай, если что-то пойдёт не так.==We need to back up the project in case something goes wrong.
+Я могу одолжить тебе денег при условии, что ты вернёшь их мне через неделю.==I can lend you some money as long as you pay me back in a week.
+Тебе можно пойти на вечеринку при условии, что ты вернёшься домой до полуночи.==You can go to the party provided that you get home before midnight.
+Тебе следует закрывать документ только после того, как сохранишь все изменения.==You should only close the document after you've saved all the changes.
+Не выбирай победителя, пока не увидишь всех конкурсантов.==Don't choose the winner until you've seen all the contestants.
+Ты можешь одолжить мне книгу, когда дочитаешь её?==Can you lend me the book when you finish it / have finished it?
+Я оставлю дверь открытой, чтобы ты мог войти.==I'll leave the door open so that you can come in.
+Бабушка вышла из комнаты, чтобы я мог сосредоточиться.==My grandmother left the room so that I could concentrate.
+Я положил ключи от машины тебе в сумку, чтобы ты их не забыл.==I put the car keys in your bag so that you wouldn't forget them.
+
+
+## B1-54 Make and Do
+
+Я приготовлю ужин, а ты помоешь посуду.==I'll make dinner, and you'll do the dishes.
+Мне нужно постирать и сходить за покупками.==I need to do the laundry and do the shopping.
+Каждое утро я заправляю постель, а потом занимаюсь йогой.==Every morning I make the bed and then do yoga.
+Когда я проходил этот курс, я всегда выполнял домашние задания.==When I was doing this course, I always did my homework.
+Я старался изо всех сил и хорошо справился с экзаменом.==I did my best and did well in the exam.
+Нам нужно провести исследование, прежде чем принять решение.==We need to do some research before we make a decision.
+Я не хочу вести дела с людьми, которым не доверяю.==I don't want to do business with people I don't trust.
+Эта ошибка нанесла серьёзный ущерб нашей репутации.==This mistake did serious damage to our reputation.
+Ты поступил правильно, когда рассказал мне правду.==You did the right thing when you told me the truth.
+Сделай мне одолжение: не шуми, пока я работаю.==Do me a favour: don't make noise while I'm working.
+Я подал жалобу, но они продолжили придумывать отговорки.==I made a complaint, but they kept making excuses.
+Мне нужно приложить усилия, чтобы завести новых друзей.==I need to make an effort to make new friends.
+Я хочу помириться с тобой.==I want to make up with you.
+Прости, что подвёл тебя. Как мне загладить свою вину перед тобой?==I'm sorry I let you down. How can I make it up to you?
+В этом месяце компания наконец получила прибыль.==This month the company finally made a profit.
+Убедись, что ты внёс оплату вовремя.==Make sure you've made the payment on time.
+Нет смысла платить за то, чем мы не пользуемся.==It makes no sense to pay for something we don't use.
+
+
+## B1-54 Text 340 — Doer and Maker additions
+
+Он постоянно комментирует чужие слова, наживает себе врагов и заключает пари.==He constantly makes comments on what other people say, makes enemies and makes bets.
+
+
+## B1 Test Review — Questions — 13 October 2026
+
+### Вопрос к подлежащему или дополнению
+Сколько человек пришло на встречу?==How many people came to the meeting?
+Сколько человек ты пригласил на встречу?==How many people did you invite to the meeting?
+Что упало на пол?==What fell on the floor?
+Что ты уронил на пол?==What did you drop on the floor?
+
+### Прямые и вложенные вопросы
+Кому принадлежит эта книга?==Who does this book belong to?
+Ты знаешь, кому принадлежит эта книга?==Do you know who this book belongs to?
+У кого она одолжила эти деньги?==Who did she borrow the money from?
+Интересно, у кого она одолжила эти деньги.==I wonder who she borrowed the money from.
+
+### Вопросы с отрицанием
+Чего она не может понять?==What can't she understand? / What can she not understand?
+Я не знаю, чего она не может понять.==I don't know what she can't understand.
+
+### Сколько времени потребовалось
+Сколько времени тебе потребовалось, чтобы закончить отчёт?==How long did it take you to finish the report?
+Ты помнишь, сколько времени тебе потребовалось, чтобы закончить отчёт?==Do you remember how long it took you to finish the report?
+
+
+## B2.1 Test Review — Verb Tenses, Exercises 2 and 3 — 17 October 2026
+
+Source: user-provided Test-English Exercise 2 and attached Exercise 3. Adapted to clarify tense contrasts.
+
+### Процесс и завершённый результат сейчас
+Я устал: я всё утро убирался в доме.==I'm tired: I've been cleaning the house all morning.
+Я уже убрался в доме, так что теперь могу отдохнуть.==I've already cleaned the house, so I can rest now.
+В последнее время они играют очень хорошо.==They have been playing really well recently.
+
+### Сейчас или всё время до настоящего момента
+Я сейчас ищу свои ключи.==I'm looking for my keys now.
+Я ищу свои ключи с самого утра и всё ещё не могу их найти.==I've been looking for my keys all morning and still can't find them.
+Я дома с самого утра: я плохо себя чувствую.==I've been at home all morning: I'm not feeling well.
+
+### Процесс в прошлом и события до него
+Мы летели над морем, когда капитан объявил о проблеме.==We were flying over the sea when the captain announced a problem.
+Мы летели уже два часа, когда капитан объявил о проблеме.==We had been flying for two hours when the captain announced a problem.
+Мне понравился этот ресторан. До того вечера я уже несколько раз проходил мимо него, но никогда там не ужинал.==I liked this restaurant. Before that evening, I had walked past it a few times, but I had never had dinner there.
+
+### Предложение, решение сейчас и заранее принятый план
+Может, закажем пиццу на ужин?==Shall we order pizza for dinner?
+— Я очень хочу пить. — Я принесу тебе воды.==“I'm really thirsty.” “I'll get you some water.”
+Я собираюсь позвонить Джанет после завтрака. Ты тоже хочешь с ней поговорить?==I'm going to call Janet after breakfast. Do you want to talk to her too?
+Билеты уже куплены. Мы уезжаем завтра после завтрака.==The tickets are already booked. We're leaving tomorrow after breakfast. / The tickets are already booked. We'll be leaving tomorrow after breakfast.
+
+### Процесс в будущем и результат к сроку
+Не звони мне завтра в три: в это время я буду обедать.==Don't call me at three tomorrow: I'll be having lunch then.
+К трём часам я ещё не закончу готовить, так что нам придётся немного подождать.==I won't have finished cooking by three, so we'll have to wait a little.
+
+### Намерение, недавнее событие и расписание
+Что ты собираешься делать с этим куском металла?==What are you going to do with that piece of metal?
+Я только что нашёл это в саду.==I've just found this in the garden.
+Во сколько прибывает поезд? — Не уверен. Сейчас проверю в интернете.==What time does the train arrive? — I'm not sure. I'll check online now.
+
+
+## B2-1 — Present Perfect vs Present Perfect Continuous — 18 October 2026
+
+Source: Skillbox B2-1 theory and speech drilling 1170; adapted examples for tense contrasts. User-requested vocabulary: chase after, barely, in the heavy rain.
+
+### Выполненная задача и следы процесса
+Я покрасил забор, так что он готов.==I've painted the fence, so it's finished.
+У меня руки в краске, потому что я красил забор.==My hands are covered in paint because I've been painting the fence.
+Я весь мокрый: я бежал под проливным дождём.==I'm soaking wet: I've been running in the heavy rain.
+Ваш пёс еле дышит. Он гонялся за кошками?==Your dog can barely breathe. Has he been chasing after cats?
+Ты весь в грязи! Чем ты занимался?==You're covered in mud! What have you been doing?
+На улице всё белое: всё утро шёл снег.==Everything is white outside: it's been snowing all morning.
+Я раздражён: я уже час пытаюсь открыть этот файл, но он всё ещё не открывается.==I'm annoyed: I've been trying to open this file for an hour, but it still won't open.
+
+### Длительность и количество
+Я читаю уже два часа, но ещё не закончил эту главу.==I've been reading for two hours, but I haven't finished this chapter yet.
+Я прочитал двадцать страниц, так что до конца главы осталось всего пять.==I've read twenty pages, so there are only five left until the end of the chapter.
+
+### Состояние без Continuous
+Я всё ещё слаб: я болел всю неделю.==I'm still weak: I've been ill all week.

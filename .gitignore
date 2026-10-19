@@ -1,0 +1,27 @@
+# Local generated media, exports, and scratch work
+/output/
+/outputs/
+/work/
+/publication/*.zip
+
+# macOS metadata
+.DS_Store
+._*
+
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+!.env.template
+
+# Editor temporary files
+*.swp
+*.swo
+*~

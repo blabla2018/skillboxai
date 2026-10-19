@@ -1,0 +1,415 @@
+{
+  "method": "Exact normalized Spanish + original Russian pair; this is not semantic deduplication. Editorial review additionally excludes repeated learning targets from released packages.",
+  "groups": [
+    {
+      "spanish": "la taquilla",
+      "source_translation": "касса",
+      "source_entry_ids": [
+        "1198450888:005",
+        "748348329:030"
+      ]
+    },
+    {
+      "spanish": "el equipo",
+      "source_translation": "команда",
+      "source_entry_ids": [
+        "1198450888:006",
+        "1219339477:021"
+      ]
+    },
+    {
+      "spanish": "reír",
+      "source_translation": "смеяться",
+      "source_entry_ids": [
+        "1198450888:017",
+        "1217848510:004"
+      ]
+    },
+    {
+      "spanish": "patinar",
+      "source_translation": "кататься на коньках",
+      "source_entry_ids": [
+        "1207308595:001",
+        "1219056205:026"
+      ]
+    },
+    {
+      "spanish": "acompañar",
+      "source_translation": "сопровождать",
+      "source_entry_ids": [
+        "1207308595:002",
+        "1219339477:032"
+      ]
+    },
+    {
+      "spanish": "la nata",
+      "source_translation": "сливки",
+      "source_entry_ids": [
+        "1207308595:003",
+        "1223433720:056"
+      ]
+    },
+    {
+      "spanish": "el saco de dormir",
+      "source_translation": "спальный мешок",
+      "source_entry_ids": [
+        "1207308595:022",
+        "1219056205:015"
+      ]
+    },
+    {
+      "spanish": "peligroso",
+      "source_translation": "опасный",
+      "source_entry_ids": [
+        "1207308595:027",
+        "1207660032:021",
+        "1217848510:014"
+      ]
+    },
+    {
+      "spanish": "reírse",
+      "source_translation": "смеяться",
+      "source_entry_ids": [
+        "1207660032:010",
+        "1222698739:006"
+      ]
+    },
+    {
+      "spanish": "simpático",
+      "source_translation": "милый, приятный",
+      "source_entry_ids": [
+        "1207660032:012",
+        "748334248:075"
+      ]
+    },
+    {
+      "spanish": "educado",
+      "source_translation": "воспитанный",
+      "source_entry_ids": [
+        "1207660032:013",
+        "748334248:062"
+      ]
+    },
+    {
+      "spanish": "el conejo",
+      "source_translation": "кролик",
+      "source_entry_ids": [
+        "1208257876:004",
+        "1217848510:016"
+      ]
+    },
+    {
+      "spanish": "el koala",
+      "source_translation": "коала",
+      "source_entry_ids": [
+        "1208257876:005",
+        "1216866620:023"
+      ]
+    },
+    {
+      "spanish": "el avestruz",
+      "source_translation": "страус",
+      "source_entry_ids": [
+        "1208257876:006",
+        "1217197619:047",
+        "1217848510:045"
+      ]
+    },
+    {
+      "spanish": "el pez",
+      "source_translation": "рыба",
+      "source_entry_ids": [
+        "1208257876:009",
+        "1216866620:044"
+      ]
+    },
+    {
+      "spanish": "la tortuga",
+      "source_translation": "черепаха",
+      "source_entry_ids": [
+        "1208257876:010",
+        "1217197619:049"
+      ]
+    },
+    {
+      "spanish": "el elefante",
+      "source_translation": "слон",
+      "source_entry_ids": [
+        "1208257876:012",
+        "1216866620:032"
+      ]
+    },
+    {
+      "spanish": "la jirafa",
+      "source_translation": "жираф",
+      "source_entry_ids": [
+        "1208257876:013",
+        "1216866620:024"
+      ]
+    },
+    {
+      "spanish": "el guepardo",
+      "source_translation": "гепард",
+      "source_entry_ids": [
+        "1208257876:019",
+        "1216866620:031"
+      ]
+    },
+    {
+      "spanish": "el tigre",
+      "source_translation": "тигр",
+      "source_entry_ids": [
+        "1208257876:021",
+        "1216866620:033"
+      ]
+    },
+    {
+      "spanish": "la oreja",
+      "source_translation": "ухо",
+      "source_entry_ids": [
+        "1208257876:023",
+        "1216866620:002"
+      ]
+    },
+    {
+      "spanish": "ágil",
+      "source_translation": "ловкий",
+      "source_entry_ids": [
+        "1208257876:024",
+        "1216866620:017"
+      ]
+    },
+    {
+      "spanish": "alimentarse",
+      "source_translation": "питаться",
+      "source_entry_ids": [
+        "1208257876:025",
+        "1217848510:042"
+      ]
+    },
+    {
+      "spanish": "la cola",
+      "source_translation": "хвост",
+      "source_entry_ids": [
+        "1208257876:027",
+        "1216866620:001"
+      ]
+    },
+    {
+      "spanish": "la pata",
+      "source_translation": "лапа",
+      "source_entry_ids": [
+        "1208257876:028",
+        "1216866620:006"
+      ]
+    },
+    {
+      "spanish": "la gallina",
+      "source_translation": "курица",
+      "source_entry_ids": [
+        "1208257876:029",
+        "1217197619:020"
+      ]
+    },
+    {
+      "spanish": "juguetón",
+      "source_translation": "игривый",
+      "source_entry_ids": [
+        "1208257876:033",
+        "1216866620:013"
+      ]
+    },
+    {
+      "spanish": "sacar a pasear",
+      "source_translation": "выгуливать",
+      "source_entry_ids": [
+        "1208257876:034",
+        "1217848510:003"
+      ]
+    },
+    {
+      "spanish": "feroz",
+      "source_translation": "свирепый",
+      "source_entry_ids": [
+        "1216866620:015",
+        "1217197619:044"
+      ]
+    },
+    {
+      "spanish": "protegerse",
+      "source_translation": "защищаться",
+      "source_entry_ids": [
+        "1216866620:027",
+        "1219056205:020"
+      ]
+    },
+    {
+      "spanish": "el mamífero",
+      "source_translation": "млекопитающее",
+      "source_entry_ids": [
+        "1216866620:035",
+        "1217848510:038"
+      ]
+    },
+    {
+      "spanish": "la superficie",
+      "source_translation": "поверхность",
+      "source_entry_ids": [
+        "1216866620:039",
+        "738208499:058"
+      ]
+    },
+    {
+      "spanish": "responsable",
+      "source_translation": "ответственный",
+      "source_entry_ids": [
+        "1217197619:008",
+        "748334248:074"
+      ]
+    },
+    {
+      "spanish": "socializar",
+      "source_translation": "общаться",
+      "source_entry_ids": [
+        "1217197619:014",
+        "1219623072:007"
+      ]
+    },
+    {
+      "spanish": "el derecho",
+      "source_translation": "право",
+      "source_entry_ids": [
+        "1217197619:018",
+        "748348329:003"
+      ]
+    },
+    {
+      "spanish": "el trozo",
+      "source_translation": "кусок",
+      "source_entry_ids": [
+        "1217197619:025",
+        "738208499:049"
+      ]
+    },
+    {
+      "spanish": "molestar",
+      "source_translation": "мешать, беспокоить",
+      "source_entry_ids": [
+        "1217197619:028",
+        "1219623072:018"
+      ]
+    },
+    {
+      "spanish": "las redes sociales",
+      "source_translation": "социальные сети",
+      "source_entry_ids": [
+        "1219339477:011",
+        "1219623072:004"
+      ]
+    },
+    {
+      "spanish": "amable",
+      "source_translation": "любезный, приветливый",
+      "source_entry_ids": [
+        "1219623072:016",
+        "748334248:053"
+      ]
+    },
+    {
+      "spanish": "la carretera",
+      "source_translation": "шоссе",
+      "source_entry_ids": [
+        "1219623072:021",
+        "1222698739:013"
+      ]
+    },
+    {
+      "spanish": "despedirse",
+      "source_translation": "прощаться",
+      "source_entry_ids": [
+        "1222698739:017",
+        "738273600:025"
+      ]
+    },
+    {
+      "spanish": "el pescado",
+      "source_translation": "рыба",
+      "source_entry_ids": [
+        "1223433720:016",
+        "738208499:017"
+      ]
+    },
+    {
+      "spanish": "el arroz",
+      "source_translation": "рис",
+      "source_entry_ids": [
+        "1223433720:040",
+        "738208499:003"
+      ]
+    },
+    {
+      "spanish": "la menta",
+      "source_translation": "мята",
+      "source_entry_ids": [
+        "1223433720:057",
+        "738208499:031"
+      ]
+    },
+    {
+      "spanish": "incorporar",
+      "source_translation": "включать, присоединять",
+      "source_entry_ids": [
+        "738208499:073",
+        "748334248:031"
+      ]
+    },
+    {
+      "spanish": "el ambiente",
+      "source_translation": "окружение, обстановка",
+      "source_entry_ids": [
+        "738273600:008",
+        "748348329:023"
+      ]
+    },
+    {
+      "spanish": "la celebración",
+      "source_translation": "празднование",
+      "source_entry_ids": [
+        "738273600:010",
+        "748348329:012"
+      ]
+    },
+    {
+      "spanish": "aumentar",
+      "source_translation": "увеличивать",
+      "source_entry_ids": [
+        "738273600:022",
+        "748334248:019"
+      ]
+    },
+    {
+      "spanish": "recibir",
+      "source_translation": "получать, принимать",
+      "source_entry_ids": [
+        "738273600:034",
+        "748334248:040"
+      ]
+    },
+    {
+      "spanish": "echar una mano",
+      "source_translation": "протянуть руку помощи",
+      "source_entry_ids": [
+        "738273600:040",
+        "748348329:072"
+      ]
+    },
+    {
+      "spanish": "fomentar",
+      "source_translation": "развивать, способствовать",
+      "source_entry_ids": [
+        "748334248:029",
+        "748348329:056"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "id": "001-bytovye-deystviya",
+  "heading": "Espanika 001 — Бытовые действия и вещи — 2026-10-18",
+  "created_date": "2026-10-18",
+  "status": "generated_for_manual_paste",
+  "source_set_ids": [
+    "1198450888",
+    "738273600"
+  ],
+  "cards": [
+    {
+      "number": 1,
+      "russian": "Принеси мне наушники, которые лежат на столе.",
+      "spanish": "Tráeme los cascos que están en la mesa.",
+      "target": "traer algo a alguien",
+      "source_entry_ids": [
+        "1198450888:014",
+        "1198450888:022"
+      ],
+      "selection_reason": "Приносить к говорящему; дополнение задаёт бытовой контекст."
+    },
+    {
+      "number": 2,
+      "russian": "Здесь подают суп с хлебом.",
+      "spanish": "Aquí sirven la sopa con pan.",
+      "target": "servir la sopa",
+      "source_entry_ids": [
+        "1198450888:009"
+      ],
+      "selection_reason": "Обычное действие; выбран смысл подавать еду, не servir para."
+    },
+    {
+      "number": 3,
+      "russian": "Я обычно жарю яйца на оливковом масле.",
+      "spanish": "Normalmente frío los huevos en aceite de oliva.",
+      "target": "freír los huevos",
+      "source_entry_ids": [
+        "1198450888:018"
+      ],
+      "selection_reason": "Частое действие на кухне; полезная форма frío."
+    },
+    {
+      "number": 4,
+      "russian": "Закрой окно, пожалуйста: из-за шума я тебя не слышу.",
+      "spanish": "Cierra la ventana, por favor: con el ruido no te oigo.",
+      "target": "el ruido",
+      "source_entry_ids": [
+        "1198450888:025",
+        "738273600:033"
+      ],
+      "selection_reason": "Шум в повседневной просьбе; oír — поддерживающая лексика, уже было te oigo."
+    },
+    {
+      "number": 5,
+      "russian": "Телевизор не работает, потому что он отключён от розетки.",
+      "spanish": "La televisión no funciona porque está desenchufada.",
+      "target": "estar desenchufado",
+      "source_entry_ids": [
+        "738273600:043"
+      ],
+      "selection_reason": "Важно отличать от apagado: отключён именно от электросети."
+    },
+    {
+      "number": 6,
+      "russian": "Лифт сломан, поэтому нам придётся подняться по лестнице.",
+      "spanish": "El ascensor está estropeado, así que tendremos que subir por las escaleras.",
+      "target": "estar estropeado",
+      "source_entry_ids": [
+        "738273600:042"
+      ],
+      "selection_reason": "Поломка техники; распространённая бытовая ситуация."
+    },
+    {
+      "number": 7,
+      "russian": "Я оставил запасной комплект ключей у соседа.",
+      "spanish": "He dejado un juego de llaves de repuesto en casa del vecino.",
+      "target": "un juego de llaves de repuesto",
+      "source_entry_ids": [
+        "738273600:009",
+        "738273600:060"
+      ],
+      "selection_reason": "Две связанные цели: juego здесь комплект, de repuesto — запасной."
+    },
+    {
+      "number": 8,
+      "russian": "Можешь помочь мне передвинуть этот стол?",
+      "spanish": "¿Puedes echarme una mano para mover esta mesa?",
+      "target": "echar una mano a alguien",
+      "source_entry_ids": [
+        "738273600:040"
+      ],
+      "selection_reason": "Разговорная просьба о конкретной помощи."
+    },
+    {
+      "number": 9,
+      "russian": "Перед уходом я попрощался со всеми гостями.",
+      "spanish": "Antes de irme, me despedí de todos los invitados.",
+      "target": "despedirse de alguien",
+      "source_entry_ids": [
+        "738273600:014",
+        "738273600:025"
+      ],
+      "selection_reason": "Возвратность и предлог de в простом жизненном контексте."
+    },
+    {
+      "number": 10,
+      "russian": "Цена номера включает завтрак, но не включает парковку.",
+      "spanish": "El precio de la habitación incluye el desayuno, pero no incluye el aparcamiento.",
+      "target": "incluir algo",
+      "source_entry_ids": [
+        "738273600:031"
+      ],
+      "selection_reason": "Смысл входить в стоимость; отличается от encender — включать прибор."
+    }
+  ],
+  "user_saved_to_remnote": false,
+  "user_confirmation_date": "2026-10-18",
+  "reuse_instruction": "User did not save the pilot. Its lexical targets may be reused in the next package in the agreed short-collocation format; generated history alone must not exclude them."
+}

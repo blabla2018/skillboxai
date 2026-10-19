@@ -35,3 +35,9 @@ Default output style:
 - Never copy English teacher feedback into the Spanish registry or Spanish teacher feedback into the English registry.
 - Prefer quality over coverage: do not pad a set to reach a fixed card count.
 - Do not implement or imply RemNote synchronization, automated import, spaced repetition, or learning-progress tracking.
+
+## Publication privacy
+
+- Keep source references portable: use repository-relative paths for repository files, original filenames for user-provided files, and public URLs for online sources.
+- Do not include the user's name, username, home directory, or other personal absolute paths in project content or filenames.
+- Before publication, scan tracked and untracked publishable files for personal identifiers. Git history and commit author metadata require separate review; do not rewrite history without explicit authorization.

@@ -9,6 +9,63 @@ Status legend:
 
 The status records card-source usage only. It does not represent mastery, recall, repetition, or progress. A checked status requires the phrase or construction itself to appear in a recorded card; a merely related idea is not enough. Normal inflection and filling the same construction slot with a contextual determiner or pronoun still count, for example `medicine for any disorder` → `medicine for this disorder`.
 
+## Skillbox dashboard — 24 September 2026
+
+- [ ] `to keep silent`
+- [x] `to carry on` — used in `B1-32 Conjunctions`.
+- [x] `a fence` — used as `the fence` in `B2-1 — Present Perfect vs Present Perfect Continuous — 18 October 2026`.
+- [ ] `a misanthrope`
+
+## Skillbox dashboard — 21 September 2026
+
+- [ ] `bike lanes`
+- [ ] `slippery`
+- [ ] `the other day` — на днях
+- [ ] `unprofitable`
+- [ ] `no one is safe from ...`
+- [ ] `it gives me heartburn` — изжога
+- [ ] `they break their backs to ...` — вкалывают
+- [ ] `a roadside cafe`
+- [ ] `well-off people`
+- [ ] `toddlers`
+- [ ] `stuffed (soft) toys`
+- [x] `a wide range (selection) of ...` — used as `a wide range of` in `The + comparative, the + comparative`.
+- [ ] `jungle` — pronunciation
+- [ ] `What weird eyes it has!`
+- [x] `I find it difficult to answer your question.` — used in `User-provided Phrases — 23 September 2026`.
+- [x] `Don't you see anything wrong with that?` — used in `User-provided Phrases — 23 September 2026`.
+- [x] `I can't wrap my head around it.` — used in `User-provided Phrases — 23 September 2026`.
+- [x] `one thing remains unclear` — used in `User-provided Phrases — 23 September 2026`.
+- [ ] `have smth. in stock`
+- [x] `it's unlikely that ...` — used in `User-provided Phrases — 23 September 2026`.
+
+## Skillbox dashboard — 17 September 2026
+
+- [ ] `get to know the truth / learn the truth`
+- [ ] `lightning vs lighting`
+- [ ] `it reminds me of ...`
+- [ ] `in the hustle and bustle of a big city`
+- [ ] `Which of you is the boss?`
+- [ ] `get on / along well with other people` — ладить
+
+## Skillbox dashboard — 14 September 2026
+
+- [ ] `in the mirror`
+- [ ] `be pleased with yourself`
+- [x] `a volunteer` — used in `B1-31 Relative Clauses`.
+- [ ] `answer / reply / respond`
+- [ ] `prefer to do smth.`
+- [ ] `take part in`
+- [ ] `basically`
+- [ ] `that's exactly why`
+- [ ] `a worthy response`
+- [ ] `to allocate (time, space, etc.)`
+- [ ] `to satisfy smb.' curiosity`
+- [ ] `my CV says ...`
+- [ ] `a natural desire`
+- [ ] `a psychotherapist`
+- [ ] `the idea is promising`
+
 ## Skillbox dashboard — 10 September 2026
 
 - [x] `look the other way` — used in `B1-35 I Wish and If Only`.
@@ -92,7 +149,7 @@ The status records card-source usage only. It does not represent mastery, recall
 - [x] `to avoid costly mistakes` — used twice in `B1-52 Another, Other, Else`.
 - [x] `pay attention to ...` — used in `B1-37 Tag Questions`, `B1-48 Perfect Infinitive`, `B1-49 Can't, Can, Could, Must`, and `B1-52 Another, Other, Else`.
 - [x] `packaging` — used in `B1-52 Another, Other, Else`.
-- [ ] `whose?`
+- [x] `whose?` — used as relative `whose` in `B1-31 Relative Clauses`.
 
 ## Skillbox dashboard — 3 August 2026
 
@@ -337,7 +394,7 @@ The status records card-source usage only. It does not represent mastery, recall
 ## Recovered B1-39 dashboard feedback — 24 November 2025
 
 - [ ] `I was surprised`
-- [x] `I wonder ...` — used in `B1-39 If and whether`.
+- [x] `I wonder ...` — used in `B1-39 If and whether` and `B1 Test Review — Questions — 13 October 2026`.
 - [x] `I have no idea ...` — used in `B1-39 If and whether`.
 - [x] `debt` — used in `B1-39 If and whether`.
 - [ ] `swear to me`
@@ -413,7 +470,7 @@ These entries were present in the former `weak-spots.md` without retained dashbo
 - [x] `to mingle with friends` — used in `The + comparative, the + comparative`.
 - [x] `to crack silly jokes` — used in `The + comparative, the + comparative`, `B1-37 Tag Questions`, and `B1-48 Perfect Infinitive`.
 - [ ] `be delighted to ...`
-- [ ] `Do me a favour, please`
+- [x] `Do me a favour, please` — used as `Do me a favour` in `B1-54 Make and Do`.
 - [x] `to take something to pieces` — used in `The + comparative, the + comparative`.
 - [x] `a spare room` — used in `B1-48 Perfect Infinitive` and `B1-49 Can't, Can, Could, Must`.
 - [x] `the only way to ...` — used in `The + comparative, the + comparative`.
@@ -437,3 +494,39 @@ These entries were present in the former `weak-spots.md` without retained dashbo
 - [x] `it's typical of me` — used in `B1-49 Can't, Can, Could, Must`.
 - [ ] `how dare you do this`
 - [x] `come to your senses` — used in `B1-37 Tag Questions`.
+
+
+## Skillbox dashboard — 15 October 2026
+
+- [ ] `a contagious disease`
+- [ ] `vain, vanity`
+- [ ] `down payment`
+- [ ] `the counsel`
+- [ ] `while doing so`
+- [ ] `for a week ahead`
+
+
+## Skillbox dashboard — 8 October 2026
+
+- [ ] `probability`
+- [ ] `a term`
+- [ ] `I’ve made a mistake`
+- [ ] `I did the wrong thing`
+- [x] `look the other way` — used in `B1-35 I Wish and If Only`.
+- [ ] `look it up on the Internet`
+- [ ] `an entrepreneur`
+- [ ] `to make an investment`
+- [ ] `make sure that ...`
+
+
+## Skillbox dashboard — 5 October 2026
+
+- [ ] `to scold smb.`
+- [ ] `a dishwasher`
+- [ ] `he pulled it off — ему удалось это провернуть`
+- [x] `to make a living` — used in `B1-35 I Wish and If Only`.
+- [x] `to make sure` — used in `B1-54 Make and Do`.
+- [x] `to do yoga` — used in `B1-54 Make and Do`.
+- [ ] `to do karate`
+- [ ] `to do damage / to do harm`
+- [x] `to do the right thing — поступать правильно` — used in `B1-54 Make and Do`.

@@ -1,0 +1,287 @@
+{
+  "id": "004-kuhnya",
+  "delivery_package_number": 3,
+  "heading": "Espanika — Пакет 03: Кухня и приготовление еды — 2026-10-18",
+  "created_date": "2026-10-18",
+  "status": "generated_for_manual_paste",
+  "source_set_ids": [
+    "738208499"
+  ],
+  "cards": [
+    {
+      "number": 1,
+      "russian": "варить рис",
+      "spanish": "cocer el arroz",
+      "target": "cocer",
+      "source_entry_ids": [
+        "738208499:062"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 2,
+      "russian": "кипятить воду",
+      "spanish": "hervir el agua",
+      "target": "hervir",
+      "source_entry_ids": [
+        "738208499:072"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 3,
+      "russian": "чистить картошку",
+      "spanish": "pelar patatas",
+      "target": "pelar",
+      "source_entry_ids": [
+        "738208499:077"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 4,
+      "russian": "нарезать лук",
+      "spanish": "cortar la cebolla",
+      "target": "cortar",
+      "source_entry_ids": [
+        "738208499:065"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 5,
+      "russian": "натереть сыр",
+      "spanish": "rallar el queso",
+      "target": "rallar",
+      "source_entry_ids": [
+        "738208499:081"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 6,
+      "russian": "заморозить мясо",
+      "spanish": "congelar la carne",
+      "target": "congelar",
+      "source_entry_ids": [
+        "738208499:063"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 7,
+      "russian": "подрумянить лук",
+      "spanish": "dorar la cebolla",
+      "target": "dorar",
+      "source_entry_ids": [
+        "738208499:066"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 8,
+      "russian": "добавить соль",
+      "spanish": "añadir sal",
+      "target": "añadir",
+      "source_entry_ids": [
+        "738208499:059"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 9,
+      "russian": "налить масло в сковороду",
+      "spanish": "echar aceite en la sartén",
+      "target": "echar",
+      "source_entry_ids": [
+        "738208499:067"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 10,
+      "russian": "попробовать соус",
+      "spanish": "probar la salsa",
+      "target": "probar",
+      "source_entry_ids": [
+        "738208499:079"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 11,
+      "russian": "сжечь тосты",
+      "spanish": "quemar las tostadas",
+      "target": "quemar",
+      "source_entry_ids": [
+        "738208499:080"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 12,
+      "russian": "остудить суп",
+      "spanish": "enfriar la sopa",
+      "target": "enfriar",
+      "source_entry_ids": [
+        "738208499:068"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 13,
+      "russian": "Соус имеет вкус чеснока.",
+      "spanish": "La salsa sabe a ajo.",
+      "target": "saber a",
+      "source_entry_ids": [
+        "738208499:087"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 14,
+      "russian": "На кухне пахнет хлебом.",
+      "spanish": "La cocina huele a pan.",
+      "target": "holer a",
+      "source_entry_ids": [
+        "738208499:086"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 15,
+      "russian": "курица, запечённая в духовке",
+      "spanish": "pollo al horno",
+      "target": "al horno",
+      "source_entry_ids": [
+        "738208499:097"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 16,
+      "russian": "мясо на углях",
+      "spanish": "carne a la brasa",
+      "target": "a la brasa",
+      "source_entry_ids": [
+        "738208499:099"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 17,
+      "russian": "сырое мясо",
+      "spanish": "carne cruda",
+      "target": "crudo",
+      "source_entry_ids": [
+        "738208499:095"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 18,
+      "russian": "пресная еда",
+      "spanish": "comida sosa",
+      "target": "soso",
+      "source_entry_ids": [
+        "738208499:094"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 19,
+      "russian": "острое блюдо",
+      "spanish": "un plato picante",
+      "target": "picante",
+      "source_entry_ids": [
+        "738208499:093"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 20,
+      "russian": "разогреть сковороду",
+      "spanish": "calentar la sartén",
+      "target": "la sartén",
+      "source_entry_ids": [
+        "738208499:037"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 21,
+      "russian": "большая кастрюля",
+      "spanish": "una olla grande",
+      "target": "la olla",
+      "source_entry_ids": [
+        "738208499:034"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 22,
+      "russian": "пшеничная мука",
+      "spanish": "harina de trigo",
+      "target": "la harina",
+      "source_entry_ids": [
+        "738208499:022"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 23,
+      "russian": "щепотка соли",
+      "spanish": "una pizca de sal",
+      "target": "la pizca",
+      "source_entry_ids": [
+        "738208499:050"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 24,
+      "russian": "тесто для хлеба",
+      "spanish": "masa para pan",
+      "target": "la masa",
+      "source_entry_ids": [
+        "738208499:020"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 25,
+      "russian": "сырная начинка",
+      "spanish": "un relleno de queso",
+      "target": "el relleno",
+      "source_entry_ids": [
+        "738208499:023"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    }
+  ]
+}

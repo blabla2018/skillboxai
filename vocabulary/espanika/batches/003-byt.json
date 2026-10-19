@@ -1,0 +1,301 @@
+{
+  "id": "003-byt",
+  "delivery_package_number": 2,
+  "heading": "Espanika — Пакет 02: Бытовые действия — 2026-10-18",
+  "created_date": "2026-10-18",
+  "status": "generated_for_manual_paste",
+  "source_set_ids": [
+    "1207308595",
+    "1207660032",
+    "1208257876",
+    "1216866620",
+    "1217197619",
+    "1217848510",
+    "1219056205",
+    "1219339477",
+    "1222698739",
+    "738208499",
+    "748334248"
+  ],
+  "cards": [
+    {
+      "number": 1,
+      "russian": "повесить куртку",
+      "spanish": "colgar la chaqueta",
+      "target": "colgar",
+      "source_entry_ids": [
+        "1217848510:015"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 2,
+      "russian": "поливать растения",
+      "spanish": "regar las plantas",
+      "target": "regar",
+      "source_entry_ids": [
+        "1208257876:039"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 3,
+      "russian": "вынести мусор",
+      "spanish": "sacar la basura",
+      "target": "la basura",
+      "source_entry_ids": [
+        "1208257876:037"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 4,
+      "russian": "испачкать рубашку",
+      "spanish": "manchar la camisa",
+      "target": "manchar",
+      "source_entry_ids": [
+        "1207660032:006"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 5,
+      "russian": "собрать шкаф",
+      "spanish": "montar un armario",
+      "target": "montar",
+      "source_entry_ids": [
+        "1207308595:017"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 6,
+      "russian": "завернуть подарок",
+      "spanish": "envolver un regalo",
+      "target": "envolver",
+      "source_entry_ids": [
+        "738208499:069"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 7,
+      "russian": "приклеить фотографию к стене",
+      "spanish": "pegar una foto en la pared",
+      "target": "pegar",
+      "source_entry_ids": [
+        "738208499:076"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 8,
+      "russian": "разбить стакан",
+      "spanish": "romper un vaso",
+      "target": "romper",
+      "source_entry_ids": [
+        "738208499:083"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 9,
+      "russian": "выгулять собаку",
+      "spanish": "sacar a pasear al perro",
+      "target": "sacar a pasear",
+      "source_entry_ids": [
+        "1208257876:034",
+        "1217848510:003"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 10,
+      "russian": "пристегнуть собаке поводок",
+      "spanish": "ponerle la correa al perro",
+      "target": "la correa",
+      "source_entry_ids": [
+        "1217848510:006"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 11,
+      "russian": "одолжить книгу другу",
+      "spanish": "prestarle un libro a un amigo",
+      "target": "prestar",
+      "source_entry_ids": [
+        "1207660032:003",
+        "1222698739:007"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 12,
+      "russian": "забрать посылку",
+      "spanish": "recoger un paquete",
+      "target": "recoger",
+      "source_entry_ids": [
+        "748334248:041"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 13,
+      "russian": "сопроводить друга к врачу",
+      "spanish": "acompañar a un amigo al médico",
+      "target": "acompañar",
+      "source_entry_ids": [
+        "1207308595:002",
+        "1219339477:032"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 14,
+      "russian": "подойти к окну",
+      "spanish": "acercarse a la ventana",
+      "target": "acercarse",
+      "source_entry_ids": [
+        "1219339477:019"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 15,
+      "russian": "пожаловаться на обслуживание",
+      "spanish": "quejarse del servicio",
+      "target": "quejarse",
+      "source_entry_ids": [
+        "1207660032:026"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 16,
+      "russian": "связаться с компанией",
+      "spanish": "ponerse en contacto con la empresa",
+      "target": "ponerse en contacto",
+      "source_entry_ids": [
+        "1222698739:015"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 17,
+      "russian": "Мне хочется выйти.",
+      "spanish": "Tengo ganas de salir.",
+      "target": "tener ganas de",
+      "source_entry_ids": [
+        "1222698739:003"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 18,
+      "russian": "ошибиться адресом",
+      "spanish": "equivocarse de dirección",
+      "target": "equivocarse",
+      "source_entry_ids": [
+        "1207308595:036"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 19,
+      "russian": "распределить задачи",
+      "spanish": "repartir las tareas",
+      "target": "repartir",
+      "source_entry_ids": [
+        "1217197619:015"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 20,
+      "russian": "причинить кому-то боль",
+      "spanish": "hacerle daño a alguien",
+      "target": "hacer daño",
+      "source_entry_ids": [
+        "1217197619:027"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 21,
+      "russian": "защищаться от солнца",
+      "spanish": "protegerse del sol",
+      "target": "protegerse",
+      "source_entry_ids": [
+        "1219056205:020",
+        "1216866620:027"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 22,
+      "russian": "хорошо себя вести",
+      "spanish": "comportarse bien",
+      "target": "comportarse",
+      "source_entry_ids": [
+        "1217848510:001"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 23,
+      "russian": "соблюдать тишину",
+      "spanish": "guardar silencio",
+      "target": "guardar silencio",
+      "source_entry_ids": [
+        "1217197619:031"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 24,
+      "russian": "соблюдать правила",
+      "spanish": "respetar las normas",
+      "target": "respetar las normas",
+      "source_entry_ids": [
+        "1217197619:030"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 25,
+      "russian": "отвезти машину в автосервис",
+      "spanish": "llevar el coche al taller mecánico",
+      "target": "el taller mecánico",
+      "source_entry_ids": [
+        "1222698739:016"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    }
+  ]
+}

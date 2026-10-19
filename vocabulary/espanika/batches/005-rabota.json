@@ -1,0 +1,290 @@
+{
+  "id": "005-rabota",
+  "delivery_package_number": 4,
+  "heading": "Espanika — Пакет 04: Работа и общение — 2026-10-18",
+  "created_date": "2026-10-18",
+  "status": "generated_for_manual_paste",
+  "source_set_ids": [
+    "1219339477",
+    "738273600",
+    "748334248",
+    "748348329"
+  ],
+  "cards": [
+    {
+      "number": 1,
+      "russian": "подписать договор",
+      "spanish": "firmar un contrato",
+      "target": "firmar",
+      "source_entry_ids": [
+        "1219339477:023"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 2,
+      "russian": "уложиться в срок",
+      "spanish": "cumplir el plazo",
+      "target": "cumplir",
+      "source_entry_ids": [
+        "748348329:048"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 3,
+      "russian": "подтвердить встречу",
+      "spanish": "confirmar la reunión",
+      "target": "confirmar",
+      "source_entry_ids": [
+        "748334248:022"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 4,
+      "russian": "предупредить об опоздании",
+      "spanish": "avisar del retraso",
+      "target": "avisar",
+      "source_entry_ids": [
+        "748334248:020"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 5,
+      "russian": "предложить альтернативу",
+      "spanish": "ofrecer una alternativa",
+      "target": "ofrecer",
+      "source_entry_ids": [
+        "748334248:036"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 6,
+      "russian": "достичь цели",
+      "spanish": "lograr un objetivo",
+      "target": "lograr",
+      "source_entry_ids": [
+        "748334248:033"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 7,
+      "russian": "потребовать объяснение",
+      "spanish": "exigir una explicación",
+      "target": "exigir",
+      "source_entry_ids": [
+        "748348329:054"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 8,
+      "russian": "облегчить работу",
+      "spanish": "facilitar el trabajo",
+      "target": "facilitar",
+      "source_entry_ids": [
+        "748348329:055"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 9,
+      "russian": "разрешить вход",
+      "spanish": "permitir la entrada",
+      "target": "permitir",
+      "source_entry_ids": [
+        "748348329:065"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 10,
+      "russian": "запретить курение",
+      "spanish": "prohibir fumar",
+      "target": "prohibir",
+      "source_entry_ids": [
+        "748348329:066"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 11,
+      "russian": "обосновать отсутствие",
+      "spanish": "justificar la ausencia",
+      "target": "justificar",
+      "source_entry_ids": [
+        "748348329:062"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 12,
+      "russian": "оценить результаты",
+      "spanish": "evaluar los resultados",
+      "target": "evaluar",
+      "source_entry_ids": [
+        "748348329:053"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 13,
+      "russian": "установить расписание",
+      "spanish": "establecer un horario",
+      "target": "establecer",
+      "source_entry_ids": [
+        "748348329:052"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 14,
+      "russian": "поддерживать связь",
+      "spanish": "mantener el contacto",
+      "target": "mantener",
+      "source_entry_ids": [
+        "748348329:063"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 15,
+      "russian": "взять на себя ответственность",
+      "spanish": "asumir la responsabilidad",
+      "target": "asumir",
+      "source_entry_ids": [
+        "738273600:021"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 16,
+      "russian": "работать удалённо",
+      "spanish": "teletrabajar",
+      "target": "teletrabajar",
+      "source_entry_ids": [
+        "748348329:069"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 17,
+      "russian": "быть на больничном",
+      "spanish": "estar de baja",
+      "target": "la baja",
+      "source_entry_ids": [
+        "748348329:038"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 18,
+      "russian": "работать на себя",
+      "spanish": "trabajar por cuenta propia",
+      "target": "por cuenta propia",
+      "source_entry_ids": [
+        "748348329:041"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 19,
+      "russian": "оплачиваемый отпуск",
+      "spanish": "un permiso remunerado",
+      "target": "remunerado",
+      "source_entry_ids": [
+        "748348329:083"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 20,
+      "russian": "работать полный рабочий день",
+      "spanish": "trabajar a jornada completa",
+      "target": "la jornada",
+      "source_entry_ids": [
+        "748348329:001"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 21,
+      "russian": "завершить административную процедуру",
+      "spanish": "completar un trámite",
+      "target": "el trámite",
+      "source_entry_ids": [
+        "748348329:005"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 22,
+      "russian": "хорошо ладить с коллегами",
+      "spanish": "llevarse bien con los compañeros",
+      "target": "llevarse bien/mal",
+      "source_entry_ids": [
+        "748334248:047"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 23,
+      "russian": "учитывать твоё мнение",
+      "spanish": "tener en cuenta tu opinión",
+      "target": "tener en cuenta",
+      "source_entry_ids": [
+        "748334248:043"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 24,
+      "russian": "Этот коллега мне нравится.",
+      "spanish": "Este compañero me cae bien.",
+      "target": "caer bien/mal",
+      "source_entry_ids": [
+        "748334248:046"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    },
+    {
+      "number": 25,
+      "russian": "быть в хорошем настроении",
+      "spanish": "estar de buen humor",
+      "target": "estar de buen/mal humor",
+      "source_entry_ids": [
+        "748334248:045"
+      ],
+      "selection_reason": "Частое действие или предмет в повседневном контексте; один основной лексический фокус.",
+      "review_status": "meaning_and_usage_reviewed"
+    }
+  ]
+}
